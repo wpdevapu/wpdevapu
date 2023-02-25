@@ -1,5 +1,26 @@
-<h1 align="center">Hi 👋, I'm Shohidul Islam Apu</h1>
-<h3 align="center">Professional WordPress Theme & Plugin Developer with Frontend Expert</h3>
+### Hi there 👋, I'm Shohidul Islam
+#### I'm Professional WordPress Theme & Plugin Developer
+![I'm Professional WordPress Theme & Plugin Developer](https://raw.githubusercontent.com/wpdvapu/wpdvapu/main/wpdvapu.png)
+
+As a WordPress developer, I have experience creating custom WordPress websites, building custom themes, and developing plugins to add new features and functionality. I have a strong understanding of HTML, CSS, JavaScript, and PHP, which allows me to create dynamic and responsive websites that look great on any device.
+
+Here are some examples of projects I have worked on as a WordPress developer:
+
+Custom WordPress theme for a fashion blog: I created a custom WordPress theme for a fashion blogger who wanted a unique design that reflected her personal style. The theme features a clean and modern layout, with a custom homepage slider and a responsive design that looks great on both desktop and mobile devices.
+
+E-commerce website for a small business: I developed an e-commerce website for a small business that sells handmade crafts and products. The website features a custom WordPress theme and a WooCommerce plugin to handle the e-commerce functionality. The design is simple and clean, with a focus on showcasing the products and making the checkout process as easy as possible.
+
+Custom plugin for a non-profit organization: I developed a custom plugin for a non-profit organization that allows users to donate to the organization through a secure online form. The plugin integrates with the organization's payment gateway and provides real-time feedback to donors, making the donation process quick and easy.
+
+As a plugin developer, I have experience developing plugins to add new functionality to WordPress, modify existing features, and integrate with third-party services. Here are some examples of plugins I have developed:
+
+Custom plugin to integrate with Mailchimp: I developed a custom plugin that integrates with Mailchimp, allowing users to easily subscribe to a mailing list from within WordPress. The plugin uses the Mailchimp API to handle the subscription process and provides real-time feedback to users.
+
+Custom plugin to add social sharing buttons: I developed a custom plugin that adds social sharing buttons to WordPress posts and pages. The plugin integrates with popular social networks like Facebook, Twitter, and LinkedIn, allowing users to easily share content with their followers.
+
+Custom plugin to add custom fields to WordPress posts: I developed a custom plugin that adds custom fields to WordPress posts, allowing users to add additional information like author bio, featured image, and related products. The plugin is flexible and easy to use, making it a great addition to any WordPress website.
+
+Overall, as a WordPress developer and plugin developer, I am passionate about creating high-quality websites and plugins that meet the needs of my clients and users. With a strong understanding of WordPress and its underlying technologies, I am confident in my ability to deliver custom solutions that exceed expectations.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wpdvapu&label=Profile%20views&color=0e75b6&style=flat" alt="wpdvapu" /> </p>
 
