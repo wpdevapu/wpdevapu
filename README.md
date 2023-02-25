@@ -55,6 +55,3 @@ Overall, as a WordPress developer and plugin developer, I am passionate about cr
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wpdvapu&show_icons=true&locale=en&layout=compact" alt="wpdvapu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wpdvapu&show_icons=true&locale=en" alt="wpdvapu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wpdvapu&" alt="wpdvapu" /></p>
