@@ -10,18 +10,6 @@ WordPress developer and plugin developer, I am passionate about creating high-qu
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wpdvapu" alt="wpdvapu" /></a> </p>
 
-- 🔭 I’m currently working on [WordPress Plugin Development](https://github.com/wpdvapu/bookfrom)
-
-- 🌱 I’m currently learning **WordPress Plugin Development and Laravel**
-
-- 👯 I’m looking to collaborate on [WordPress Theme Development](https://lrbinventiveit.com/)
-
-- 🤝 I’m looking for help with [WordPress Theme & Plugin Development](https://github.com/wpdvapu)
-
-- 👨‍💻 All of my projects are available at [#portfolio](#portfolio)
-
-- 📝 I regularly write articles on [#bloglink](#bloglink)
-
 - 💬 Ask me about **PHP , MYSQL , HTML , CSS , JS ,JQUERY etc.**
 
 - 📫 How to reach me **wpdvapu@gmail.com**
