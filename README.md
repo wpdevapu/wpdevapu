@@ -14,7 +14,7 @@ WordPress developer and plugin developer, I am passionate about creating high-qu
 
 - 📫 How to reach me **wpdvapu@gmail.com**
 
-- 📄 Know about my experiences [#resume](#resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13437xYfQFsFjnaFO2WFDGvEhTzfeh6o8/view?usp=share_link](Resume)
 
 - ⚡ Fun fact **I think I funny with Cool**
 
