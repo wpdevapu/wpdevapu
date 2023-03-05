@@ -32,7 +32,7 @@ WordPress developer and plugin developer, I am passionate about creating high-qu
 
 <h3 align="left"> As like Custom WordPress Theme Development Process :</h3>
 
-- 👉 [Underso](https://underscores.me/) 
+- 👉 [Underscores.me](https://underscores.me/) 
 - 👉 Theme Setup with active
 - 👉 Enqueue Style and Script
 - 👉 Dynamic Nav Menu and logo
@@ -46,7 +46,7 @@ WordPress developer and plugin developer, I am passionate about creating high-qu
 - 👉 One-click Demo Importer
 - 👉 Child Theme Make
 
-<h2 align="left">I can do Any WordPress Theme Customization because you know that .</h2>
+<h3 align="left">I can do Any WordPress Theme Customization because you know that .</h3>
 
 
 <h3 align="left">Connect with me:</h3>
