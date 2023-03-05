@@ -6,19 +6,6 @@ As a WordPress developer, I have experience creating custom WordPress websites, 
 
 WordPress developer and plugin developer, I am passionate about creating high-quality websites and plugins that meet the needs of my clients and users. With a strong understanding of WordPress and its underlying technologies, I am confident in my ability to deliver custom solutions that exceed expectations.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wpdvapu&label=Profile%20views&color=0e75b6&style=flat" alt="wpdvapu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wpdvapu" alt="wpdvapu" /></a> </p>
-
-- 💬 Ask me about **PHP , MYSQL , HTML , CSS , JS ,JQUERY, BOOTSTRAP, AJAX etc.**
-
-- 📫 How to reach me **wpdvapu@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13437xYfQFsFjnaFO2WFDGvEhTzfeh6o8/view?usp=share_link)
-
-- ⚡ Fun fact **I think I funny with Cool**
-
-
 <h3 align="left">MY ALL Services :</h3>
 
 - 👉 Web Design and Development in WordPress
@@ -47,6 +34,18 @@ WordPress developer and plugin developer, I am passionate about creating high-qu
 - 👉 Child Theme Make
 
 <h3 align="left">I can do Any WordPress Theme Customization because you know that.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wpdvapu&label=Profile%20views&color=0e75b6&style=flat" alt="wpdvapu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wpdvapu" alt="wpdvapu" /></a> </p>
+
+- 💬 Ask me about **PHP , MYSQL , HTML , CSS , JS ,JQUERY, BOOTSTRAP, AJAX etc.**
+
+- 📫 How to reach me **wpdvapu@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13437xYfQFsFjnaFO2WFDGvEhTzfeh6o8/view?usp=share_link)
+
+- ⚡ Fun fact **I think I funny with Cool**
 
 
 <h3 align="left">Languages and Tools:</h3>
