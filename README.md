@@ -18,6 +18,13 @@ WordPress developer and plugin developer, I am passionate about creating high-qu
 
 - ⚡ Fun fact **I think I funny with Cool**
 
+
+<h3 align="left">MY ALL Services :</h3>
+
+- 👉 Web Design and Development in WordPress**
+- 👉 Custom WordPress Theme Development**
+- 👉 Custom WordPress Theme Development**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
