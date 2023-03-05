@@ -1,6 +1,6 @@
 ![I'm Professional WordPress Theme & Plugin Developer](https://raw.githubusercontent.com/wpdvapu/wpdvapu/main/wpdvapusss.png)
 ### Hi there 👋, I'm Shohidul Islam
-#### I'm Professional WordPress Theme & Plugin Developer
+#### I'm Professional WordPress Theme & Plugin Developer in Templatemonster marketplace
 
 As a WordPress developer, I have experience creating custom WordPress websites, building custom themes, and developing plugins to add new features and functionality. I have a strong understanding of HTML, CSS, JavaScript, and PHP, which allows me to create dynamic and responsive websites that look great on any device.
 
@@ -10,7 +10,7 @@ WordPress developer and plugin developer, I am passionate about creating high-qu
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wpdvapu" alt="wpdvapu" /></a> </p>
 
-- 💬 Ask me about **PHP , MYSQL , HTML , CSS , JS ,JQUERY etc.**
+- 💬 Ask me about **PHP , MYSQL , HTML , CSS , JS ,JQUERY, BOOTSTRAP etc.**
 
 - 📫 How to reach me **wpdvapu@gmail.com**
 
