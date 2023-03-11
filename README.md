@@ -41,7 +41,7 @@ WordPress developer and plugin developer, I am passionate about creating high-qu
 
 - 💬 Ask me about **PHP , MYSQL , HTML , CSS , JS ,JQUERY, BOOTSTRAP, AJAX etc.**
 
-- 📫 How to reach me **wpdvapu@gmail.com**
+- 📫 How to reach me **wpdevapu@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13437xYfQFsFjnaFO2WFDGvEhTzfeh6o8/view?usp=share_link)
 
