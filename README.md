@@ -1,4 +1,4 @@
-![I'm Professional WordPress Theme & Plugin Developer](https://raw.githubusercontent.com/wpdvapu/wpdvapu/main/wpdvapusss.png)
+![I'm Professional WordPress Theme & Plugin Developer]
 ### Hi there 👋, I'm Shohidul Islam
 #### I'm Professional WordPress Theme & Plugin Developer and Front-end Developer in Templatemonster marketplace
 
@@ -9,6 +9,7 @@ WordPress developer and plugin developer, I am passionate about creating high-qu
 <h3 align="left">MY ALL Services :</h3>
 
 - 👉 Web Design and Development in WordPress
+- 👉 Plugin Design and Development in WordPress
 - 👉 PSD,XD, FIGMA TO WordPress  Responsive
 - 👉 PSD, XD,FIGMA TO HTML Responsive
 - 👉 Custom WordPress Theme Development
@@ -17,21 +18,6 @@ WordPress developer and plugin developer, I am passionate about creating high-qu
 - 👉 Create E-commerce Custom and Other WordPress Website
 - 👉 Kirki , Elementor, Customize API, Redux
 
-<h3 align="left"> As like Custom WordPress Theme Development Process :</h3>
-
-- 👉 [Underscores.me](https://underscores.me/) 
-- 👉 Theme Setup with active
-- 👉 Enqueue Style and Script
-- 👉 Dynamic Nav Menu and logo
-- 👉 Custom Post Type
-- 👉 Custom widget
-- 👉 AJAX
-- 👉 ALL Page Setup with Dynamic
-- 👉 Kirki or Customize API or Redux Using To Theme Option make 
-- 👉 Elementor custom addon or widget Develop
-- 👉 TGM Plugin Activation
-- 👉 One-click Demo Importer
-- 👉 Child Theme Make
 
 <h3 align="left">I can do Any WordPress Theme Customization because you know that.</h3>
 
