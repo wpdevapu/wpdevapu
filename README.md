@@ -35,9 +35,8 @@ WordPress developer and plugin developer, I am passionate about creating high-qu
 
 <h3 align="left">I can do Any WordPress Theme Customization because you know that.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wpdvapu&label=Profile%20views&color=0e75b6&style=flat" alt="wpdvapu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wpdevapu&label=Profile%20views&color=0e75b6&style=flat" alt="wpdevapu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wpdvapu" alt="wpdvapu" /></a> </p>
 
 - 💬 Ask me about **PHP , MYSQL , HTML , CSS , JS ,JQUERY, BOOTSTRAP, AJAX etc.**
 
